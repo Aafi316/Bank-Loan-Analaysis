@@ -32,7 +32,7 @@ Power BI – Dashboard creation and interactive visual storytelling
 
 🧪 Methodology;
 
-Data Preparation in SQL Server
+Data Preparation in SQL Server:
 
 Cleaned and filtered raw data
 
@@ -40,7 +40,7 @@ Calculated essential KPIs and created summary tables
 
 Derived new columns such as issue month/year, loan term categories, and debt-to-income ratio groupings
 
-Power BI Visualization
+Power BI Visualization:
 
 Created multiple views and breakdowns using:
 
