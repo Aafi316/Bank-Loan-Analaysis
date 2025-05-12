@@ -94,6 +94,6 @@ Implement slicers for loan grade or borrower income range
 
 🙏 Acknowledgements
 
-Dataset obtained from [Insert Source if applicable]
+Dataset obtained from (https://www.kaggle.com/datasets/shahidkhan01174/bank-loan-report?select=financial_loan.csv)
 
 Visual design inspired by modern BI reporting best practices
