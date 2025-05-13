@@ -60,7 +60,7 @@ Monthly Trends: Clear visualization of loan issuance spikes and seasonal trends
 
 Geographic Analysis: State-wise loan distribution reveals high-volume regions
 
-Loan Purpose: Most loans were for debt consolidation, followed by home improvement
+Loan Purpose: Most loans were for debt consolidation, followed by credit cards and home improvement
 
 Borrower Profile: Most applicants had employment lengths between 2–10 years and were homeowners
 
