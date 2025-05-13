@@ -64,14 +64,6 @@ Loan Purpose: Most loans were for debt consolidation, followed by home improveme
 
 Borrower Profile: Most applicants had employment lengths between 2–10 years and were homeowners
 
-📁 Files Included;
-
-loan_analysis_queries.sql – SQL scripts used to clean and summarize data
-
-bank_loan_dashboard.pbix – Power BI report file with full dashboard
-
-README.md – Project documentation and summary (this file)
-
 🔍 Dashboard Features;
 
 The Power BI dashboard offers:
